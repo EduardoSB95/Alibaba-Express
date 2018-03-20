@@ -1,0 +1,29 @@
+* {
+    margin: 0px; 
+}
+
+.header {
+    background-color: rgb(103, 103, 180);
+    text-align: center;
+    padding: 25px;
+}
+
+.text {
+    text-align: center;
+    padding: 25px;
+}
+
+.footer {
+    background-color: rgb(103, 103, 180);
+    bottom: 0%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    margin: 10px;
+}
+
